@@ -67,7 +67,7 @@ Annual members are more likely to utilize the traditional bikes, while casual ri
 
 **Average Trip Duration Comparison**: 
 -	Key Finding: Annual members have shorter average trip durations compared to casual riders, indicating more frequent but shorter rides.
-  <img src="/cyclicist_bike_share/Frequency of Bike Usage Comparison.png" alt="Average Trip Duration Comparison">
+  <img src="/cyclicist_bike_share/Average Trip Duration Comparison.png" alt="Average Trip Duration Comparison">
 
 **Frequency of Bike Usage**: 
 -	Key Finding: Annual members exhibit higher frequency in bike usage compared to casual riders, indicating more consistent and regular usage patterns.
