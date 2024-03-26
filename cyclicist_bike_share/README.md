@@ -11,7 +11,7 @@
 
 - [Documentation of any cleaning or manipulation of data](#Documentation-of-any-cleaning-or-manipulation-of-data)
 
-- [A summary of my analysis](#-A-summary-of-my-analysis)
+- [A summary of my analysis](#A-summary-of-my-analysis)
 
 - [Supporting Visualizations and Key Findings](#Supporting-Visualizations-and-Key-Findings)
 
