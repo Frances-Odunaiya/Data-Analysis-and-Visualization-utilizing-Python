@@ -8,7 +8,7 @@ This repository aims to showcase various data analysis and visualization project
 
 ## Projects
 
-**1. Cyclicist Bike Share Analysis**: This exploratory Data Analysis revolves around maximizing the number of annual members at Cyclistic, a bike-share company. The task is to design marketing strategies aimed at converting casual riders into annual members. I recommend to the management team that understanding the distinct usage patterns of annual members and casual riders is essential for devising effective marketing strategies to promote annual memberships. By leveraging these insights, Cyclistic can tailor its marketing initiatives to better cater to the needs and preferences of both user segments, ultimately driving higher conversion rates and business growth. ---> [Go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualization-utilizing-Python/blob/main/cyclicist_bike_share/README.md)
+**1. Cyclicist Bike Share Analysis**: This exploratory Data Analysis revolves around maximizing the number of annual members at Cyclistic, a bike-share company. The task is to design marketing strategies aimed at converting casual riders into annual members. I recommend to the management team that understanding the distinct usage patterns of annual members and casual riders is essential for devising effective marketing strategies to promote annual memberships. By leveraging these insights, Cyclistic can tailor its marketing initiatives to better cater to the needs and preferences of both user segments, ultimately driving higher conversion rates and business growth. ---> [Go to project..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualization-utilizing-Python/blob/main/cyclicist_bike_share/README.md)
 
 
 ## Contributing
