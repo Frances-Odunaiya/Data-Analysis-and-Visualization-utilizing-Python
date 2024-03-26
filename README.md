@@ -15,6 +15,6 @@ This repository aims to showcase various data analysis and visualization project
 Contributions to this repository are welcome! Whether you want to add your own data analysis projects, improve existing code, or fix bugs, your contributions help make this repository more valuable for the community. To contribute, simply fork the repository, make your changes, and submit a pull request.
 
 ## Support
-If you have any questions, feedback, or suggestions for improvement, feel free to open an issue or reach out to the repository owner. Your feedback is valuable and helps us improve the repository for everyone.
+If you have any questions, feedback, or suggestions for improvement, feel free to open an issue or reach out to me. Your feedback is valuable and helps us improve the repository for everyone.
 
 # Happy coding and happy analyzing!
